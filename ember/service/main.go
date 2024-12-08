@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/brevis-network/brevis-sdk/examples/ember"
+	"github.com/brevis-network/brevis-sdk/ember"
 	"github.com/brevis-network/brevis-sdk/sdk/prover"
 )
 
